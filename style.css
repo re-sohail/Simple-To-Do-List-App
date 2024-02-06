@@ -57,6 +57,10 @@ button{
     border-radius: 40px;
     cursor: pointer;
 }
+ul{
+    max-height:400px;
+    overflow-y: scroll;
+}
 ul li{
     position: relative;
     list-style: none;
